@@ -1,1 +1,2 @@
 # Module-11-Homework
+Code for this project is found in the main page. Code for part 1 is the file called "part_1_mars_news.ipynb". Part 2's code is the file called "part_2_mars_weather.ipynb". I had to update chromedriver since base code was originally provided to us, so I replaced the old chromedriver with the new chromdriver. Code for this this assignement came from class notes, instructor example, and chat gpt.
